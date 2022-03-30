@@ -6,4 +6,3 @@
     fish_add_path $HOME/go/bin/
     repo init --help
     cfg --help
-`
