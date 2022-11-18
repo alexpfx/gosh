@@ -6,3 +6,7 @@
     fish_add_path $HOME/go/bin/
     repo init --help
     cfg --help
+
+
+sudo chsh -s /usr/bin/fish
+sudo pacman -Syu bspwm sxhkd polybar rofi kitty alacritty fisher fzf chromium
