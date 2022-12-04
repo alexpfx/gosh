@@ -10,4 +10,4 @@
 
 sudo chsh -s /usr/bin/fish alex
 
-sudo pacman -Syu bspwm sxhkd polybar rofi kitty alacritty fisher fzf chromium
+sudo pacman -Syu go openssh bspwm sxhkd polybar rofi kitty alacritty fisher fzf chromium
