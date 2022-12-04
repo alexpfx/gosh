@@ -8,5 +8,6 @@
     cfg --help
 
 
-sudo chsh -s /usr/bin/fish
+sudo chsh -s /usr/bin/fish alex
+
 sudo pacman -Syu bspwm sxhkd polybar rofi kitty alacritty fisher fzf chromium
